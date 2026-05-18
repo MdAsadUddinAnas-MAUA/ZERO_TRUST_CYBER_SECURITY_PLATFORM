@@ -1,0 +1,14 @@
+﻿# Ignore dependencies and generated files
+node_modules/
+project/node_modules/
+project/artifacts/
+project/cache/
+.DS_Store
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+pnpm-debug.log*
+/dist/
+.vscode/

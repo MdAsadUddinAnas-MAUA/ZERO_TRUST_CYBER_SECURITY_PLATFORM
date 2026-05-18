@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "zero-trust-cyber-shield",
+  "installCommand": "cd project && npm install",
+  "buildCommand": "cd project && npm run build",
+  "outputDirectory": "project/dist"
+}
